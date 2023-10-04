@@ -25,7 +25,7 @@
                       </div>
                     </div>
                   </div>
-                  <div class="col">
+                  {{-- <div class="col">
                     <div class="card o-hidden border-0" style="cursor: pointer">
                       <div class="bg-secondary b-r-4 card-body">
                         <div class="media static-top-widget">
@@ -36,7 +36,7 @@
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> --}}
                   <div class="col">
                     <div class="card o-hidden border-0" style="cursor: pointer" onclick="returnPage()">
                       <div class="bg-primary b-r-4 card-body">
